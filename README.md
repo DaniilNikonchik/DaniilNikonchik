@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaniilNikonchik
+- 👋 Hi, I’m Daniil Nikonchik
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning multiple programming languages at the university
 - 💞️ I’m looking to collaborate on
