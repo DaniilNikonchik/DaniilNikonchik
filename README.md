@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniil Nikonchik
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning multiple programming languages at the university
-- 💞️ I’m looking to collaborate on
+- 💞️ I'm looking for a job
 - 📫 How to reach me:
   -  write to me in a telegram @DaniilNikonchik
   -  write me an email daniilnikonchik@gmail.com
