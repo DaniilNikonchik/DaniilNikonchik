@@ -30,9 +30,9 @@
 - Документация Django
 
 ## 📫 Связь со мной
-- **Telegram:** [@yourusername](https://t.me/@DaniilNikonchik)
-- **Email:** your.email@example.com
-- **GitHub:** [ваш-username](https://github.com/DaniilNikonchik)
+- **Telegram:** [@DaniilNikonchik](https://t.me/@DaniilNikonchik)
+- **Email:** DaniilNnikonchik@gmail.com
+- **GitHub:** [@DaniilNikonchik](https://github.com/DaniilNikonchik)
 
 ---
 
