@@ -31,7 +31,7 @@
 
 ## 📫 Связь со мной
 - **Telegram:** [@DaniilNikonchik](https://t.me/@DaniilNikonchik)
-- **Email:** DaniilNnikonchik@gmail.com
+- **Email:** DaniilNikonchik@gmail.com
 - **GitHub:** [@DaniilNikonchik](https://github.com/DaniilNikonchik)
 
 ---
