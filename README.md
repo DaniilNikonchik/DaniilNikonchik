@@ -1,42 +1,38 @@
-# 👋 Привет! Я Даниил
+# 👋 Hi! I am Daniil
 
-**Начинающий Python разработчик | Учусь и расту каждый день**
+**Beginner Python developer | I'm learning and growing every day**
 
-## 🎯 Мои цели
-- Стать профессиональным Python backend-разработчиком
-- Изучить Django, FastAPI, базы данных
-- Участвовать в open-source проектах
-- Найти первую работу в IT
+## 🎯 My goals
+- Become a professional Python backend developer
+- Explore Django, FastAPI, databases
+- Participate in open-source projects
+- Find your first job in IT
 
-## 📚 Что я изучаю сейчас
-- **Python**: углубляю знания языка
-- **Django**: основы веб-фреймворка  
-- **Git**: система контроля версий
-- **SQL**: работа с базами данных
-- **Algorithms**: структуры данных и алгоритмы
+## 📚 What am I studying now
+- **Python**: I deepen my knowledge of the language
+- **Django**: the basics of a web framework  
+- **Git**: version control system
+- **SQL**: working with databases
+- **Algorithms**: data structures and algorithms
 
-## 🛠 Мой стек
+## 🛠 My stack
 `Python` `Git` `Linux` `SQL` `HTML/CSS` `Django`
 
-## 📈 Мой прогресс
+## 📈 My progress
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=flat-square)
 ![Django](https://img.shields.io/badge/Django-Beginner-green?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-Intermediate-yellow?style=flat-square)
 
-## 📖 Я читаю
-- "Чистый код" Роберт Мартин
-- "Python. К вершинам мастерства" Лучано Рамальо
-- Документация Django
 
-## 📫 Связь со мной
+## 📫 Contact with me
 - **Telegram:** [@DaniilNikonchik](https://t.me/@DaniilNikonchik)
 - **Email:** DaniilNikonchik@gmail.com
 - **GitHub:** [@DaniilNikonchik](https://github.com/DaniilNikonchik)
 
 ---
 
-> *"Путь в тысячу миль начинается с первого шага"*
+> *"The journey of a thousand miles begins with the first step"*
 
 <!---
 DaniilNikonchik/DaniilNikonchik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
